@@ -1,0 +1,11 @@
+sort1 uses: BUBBLE SORT
+
+How do you know?: On the average, it has the slowest run time, both on reversed and random sets, while it's the fastest on the sort set
+
+sort2 uses: MERGE SORT
+
+How do you know?: On the average, it has the fastest run time on all sets
+
+sort3 uses: SELECTION SORT
+
+How do you know?: On the average, it has the second fastest run time, both on reversed and random sets, while it's the slowest on the sort set
